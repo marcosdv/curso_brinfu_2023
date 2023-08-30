@@ -6,7 +6,7 @@
 
 ### Conteúdo
 
-- [ ] Introdução ao C# .NET - Notícias API - CRUD da TbNoticia - ADO.NET com Dapper e SQL Server - 24/08/2023
+- [x] Introdução ao C# .NET - Notícias API - CRUD da TbNoticia - ADO.NET com Dapper e SQL Server - 24/08/2023
 
 ### Tecnologias
 
